@@ -1,0 +1,36 @@
+{
+  "name": "scrappingscript",
+  "version": "1.0.0",
+  "description": "egrul.nalog.ru docs parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suren96",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "content-type": "^1.0.2",
+    "download-file": "^0.1.5",
+    "express": "^4.15.3",
+    "htmlparser2": "^3.9.2",
+    "linkscrape": "^1.0.0",
+    "needle": "^1.6.0",
+    "path": "^0.12.7",
+    "pdf-text": "^0.4.0",
+    "pdf-text-extract": "^1.5.0",
+    "pdf2json": "^1.1.7",
+    "pdfreader": "^0.2.4",
+    "puid": "^1.0.7",
+    "random-ua": "0.0.6",
+    "random-useragent": "^0.3.1",
+    "request": "^2.81.0",
+    "request-cookies": "^1.1.0",
+    "request-promise": "^4.2.1",
+    "rucaptcha": "^1.0.5",
+    "rucaptcha-resolver": "^1.0.3",
+    "tress": "^1.0.3",
+    "url-download": "0.0.8",
+    "vo": "^4.0.2"
+  }
+}
